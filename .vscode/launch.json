@@ -8,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-      "cwd": "c:/Users/hp/New folder",
-      "program": "c:/Users/hp/New folder/build/Debug/outDebug",
+      "cwd": "c:/Users/hp/Documents/GitHub/DSAseries",
+      "program": "c:/Users/hp/Documents/GitHub/DSAseries/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
