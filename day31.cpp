@@ -33,4 +33,4 @@ public:
         
     }
 };
-```tc,sc=O(1)
+```tc=O(n) sc=O(1)
