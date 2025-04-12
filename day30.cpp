@@ -51,7 +51,7 @@ public:
         
     }
 };
- tc, sc=O(1)  class Solution {
+ tc, sc=O(n)  class Solution {
 public:
     ListNode* removeNthFromEnd(ListNode* head, int n) {
         ListNode* temp=head;
@@ -81,4 +81,4 @@ public:
         
     }
 };
-tc,sc=O(1)
+tc,sc=O(n)
